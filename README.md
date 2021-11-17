@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact me
+- 📫 How to reach me adityalawate2004@gmail.com
+- 
 
 <!---
 Aditdev/Aditdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
