@@ -7,4 +7,4 @@
 Aditdev/Aditdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# I am now learning Application of Python in MACHINE LEARNING by <a href ="https://skillvertex.in">"SKILLVERTEX"</a>
+# I am now learning Application of Python in MACHINE LEARNING by "<a href ="https://skillvertex.in">SKILLVERTEX</a>"
